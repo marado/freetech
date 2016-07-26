@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.11.11)  17 JUL 2016 19:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.11.11)  26 JUL 2016 23:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -339,113 +339,120 @@ File: oemfpsystemdiagram.png Graphic file (type png)
 Package pdftex.def Info: oemfpsystemdiagram.png used on input line 62.
 (pdftex.def)             Requested size: 474.8122pt x 301.14795pt.
  [4 <./oemfpsystemdiagram.png>]
-<AEL.png, id=34, 464.4853pt x 329.73187pt>
+<open-building.png, id=34, 700.86844pt x 383.93437pt>
+File: open-building.png Graphic file (type png)
+ <use open-building.png>
+Package pdftex.def Info: open-building.png used on input line 68.
+(pdftex.def)             Requested size: 630.77577pt x 345.53773pt.
+
+[5 <./open-building.png>] <AEL.png, id=39, 464.4853pt x 329.73187pt>
 File: AEL.png Graphic file (type png)
- <use AEL.png>
-Package pdftex.def Info: AEL.png used on input line 68.
+
+<use AEL.png>
+Package pdftex.def Info: AEL.png used on input line 74.
 (pdftex.def)             Requested size: 510.93542pt x 362.70616pt.
- [5 <./AEL.png>]
-<open-culture-timeline-1.jpg, id=40, 558.085pt x 337.26pt>
+ [6 <./AEL.png>]
+<open-culture-timeline-1.jpg, id=46, 558.085pt x 337.26pt>
 File: open-culture-timeline-1.jpg Graphic file (type jpg)
 
 <use open-culture-timeline-1.jpg>
-Package pdftex.def Info: open-culture-timeline-1.jpg used on input line 73.
+Package pdftex.def Info: open-culture-timeline-1.jpg used on input line 79.
 (pdftex.def)             Requested size: 558.08365pt x 337.25917pt.
 
-<open-culture-timeline-2.jpg, id=41, 495.8525pt x 373.395pt>
+<open-culture-timeline-2.jpg, id=47, 495.8525pt x 373.395pt>
 File: open-culture-timeline-2.jpg Graphic file (type jpg)
 
 <use open-culture-timeline-2.jpg>
-Package pdftex.def Info: open-culture-timeline-2.jpg used on input line 75.
+Package pdftex.def Info: open-culture-timeline-2.jpg used on input line 81.
 (pdftex.def)             Requested size: 495.85129pt x 373.39409pt.
- [6 <./open-culture-timeline-1.jpg>]
+ [7 <./open-culture-timeline-1.jpg>]
 
-Class slides Warning: Slide 6 too long on input line 76.
+Class slides Warning: Slide 7 too long on input line 82.
 
-[6 <./open-culture-timeline-2.jpg>] [7]
+[7 <./open-culture-timeline-2.jpg>] [8]
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <12> on input line 144.
+(Font)              <12> on input line 150.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <7> on input line 144.
- [8]
-<desktop.png, id=63, 1927.2pt x 1084.05pt>
+(Font)              <7> on input line 150.
+ [9]
+<desktop.png, id=68, 1927.2pt x 1084.05pt>
 File: desktop.png Graphic file (type png)
  <use desktop.png>
-Package pdftex.def Info: desktop.png used on input line 180.
+Package pdftex.def Info: desktop.png used on input line 186.
 (pdftex.def)             Requested size: 674.53012pt x 379.42319pt.
 
-Overfull \hbox (24.53012pt too wide) in paragraph at lines 179--181
+Overfull \hbox (24.53012pt too wide) in paragraph at lines 185--187
 [] 
  []
 
-<android-cm.jpg, id=64, 803.0pt x 602.25pt>
+<android-cm.jpg, id=69, 803.0pt x 602.25pt>
 File: android-cm.jpg Graphic file (type jpg)
  <use android-cm.jpg>
-Package pdftex.def Info: android-cm.jpg used on input line 183.
+Package pdftex.def Info: android-cm.jpg used on input line 189.
 (pdftex.def)             Requested size: 481.80373pt x 361.35278pt.
- [9 <./desktop.png (PNG copy)>] <firefox.png, id=69, 803.0pt x 602.25pt>
+ [10 <./desktop.png (PNG copy)>] <firefox.png, id=74, 803.0pt x 602.25pt>
 File: firefox.png Graphic file (type png)
  <use firefox.png>
-Package pdftex.def Info: firefox.png used on input line 186.
+Package pdftex.def Info: firefox.png used on input line 192.
 (pdftex.def)             Requested size: 497.85486pt x 373.39113pt.
 
 
-Class slides Warning: Slide 9 too long on input line 187.
+Class slides Warning: Slide 10 too long on input line 193.
 
-[9 <./android-cm.jpg>] <libreoffice.png, id=74, 939.51pt x 563.10374pt>
+[10 <./android-cm.jpg>] <libreoffice.png, id=80, 939.51pt x 563.10374pt>
 File: libreoffice.png Graphic file (type png)
 
 <use libreoffice.png>
-Package pdftex.def Info: libreoffice.png used on input line 189.
+Package pdftex.def Info: libreoffice.png used on input line 195.
 (pdftex.def)             Requested size: 582.49019pt x 349.12071pt.
 
 
-Class slides Warning: Slide 9 too long on input line 190.
+Class slides Warning: Slide 10 too long on input line 196.
 
-[9 <./firefox.png (PNG copy)>] <gimp.png, id=80, 1017.8025pt x 732.7375pt>
+[10 <./firefox.png (PNG copy)>] <gimp.png, id=85, 1017.8025pt x 732.7375pt>
 File: gimp.png Graphic file (type png)
 
 <use gimp.png>
-Package pdftex.def Info: gimp.png used on input line 192.
+Package pdftex.def Info: gimp.png used on input line 198.
 (pdftex.def)             Requested size: 508.90001pt x 366.36786pt.
 
 
-Class slides Warning: Slide 9 too long on input line 193.
+Class slides Warning: Slide 10 too long on input line 199.
 
-[9 <./libreoffice.png>] <ardour.png, id=86, 735.74875pt x 578.16pt>
+[10 <./libreoffice.png>] <ardour.png, id=91, 735.74875pt x 578.16pt>
 File: ardour.png Graphic file (type png)
 
 <use ardour.png>
-Package pdftex.def Info: ardour.png used on input line 195.
+Package pdftex.def Info: ardour.png used on input line 201.
 (pdftex.def)             Requested size: 441.45265pt x 346.89867pt.
 
 
-Class slides Warning: Slide 9 too long on input line 196.
+Class slides Warning: Slide 10 too long on input line 202.
 
-[9 <./gimp.png>] <blender.jpg, id=92, 1686.3pt x 999.735pt>
+[10 <./gimp.png>] <blender.jpg, id=97, 1686.3pt x 999.735pt>
 File: blender.jpg Graphic file (type jpg)
  <use blender.jpg>
-Package pdftex.def Info: blender.jpg used on input line 198.
+Package pdftex.def Info: blender.jpg used on input line 204.
 (pdftex.def)             Requested size: 573.33443pt x 339.9054pt.
 
 
-Class slides Warning: Slide 9 too long on input line 199.
+Class slides Warning: Slide 10 too long on input line 205.
 
-[9 <./ardour.png>]
+[10 <./ardour.png>]
 
-Class slides Warning: Slide 9 too long on input line 199.
+Class slides Warning: Slide 10 too long on input line 205.
 
-[9 <./blender.jpg>] [10]
+[10 <./blender.jpg>] [11]
 
-Class slides Warning: Slide 10 too long on input line 213.
+Class slides Warning: Slide 11 too long on input line 219.
 
-[10] <ANSOL.png, id=111, 842.1864pt x 597.432pt>
+[11] <ANSOL.png, id=116, 842.1864pt x 597.432pt>
 File: ANSOL.png Graphic file (type png)
  <use ANSOL.png>
-Package pdftex.def Info: ANSOL.png used on input line 217.
+Package pdftex.def Info: ANSOL.png used on input line 223.
 (pdftex.def)             Requested size: 673.75003pt x 477.94624pt.
 
-Overfull \hbox (23.75003pt too wide) in paragraph at lines 217--218
+Overfull \hbox (23.75003pt too wide) in paragraph at lines 223--224
 [][] 
  []
 
@@ -453,76 +460,76 @@ Overfull \hbox (23.75003pt too wide) in paragraph at lines 217--218
 Overfull \vbox (55.94624pt too high) has occurred while \output is active []
 
 
-[11 <./ANSOL.png (PNG copy)>] [12]
-<pct2001-miguelg.jpg, id=120, 425.59pt x 252.945pt>
+[12 <./ANSOL.png (PNG copy)>] [13]
+<pct2001-miguelg.jpg, id=125, 425.59pt x 252.945pt>
 File: pct2001-miguelg.jpg Graphic file (type jpg)
  <use pct2001-miguelg.jpg>
-Package pdftex.def Info: pct2001-miguelg.jpg used on input line 237.
+Package pdftex.def Info: pct2001-miguelg.jpg used on input line 243.
 (pdftex.def)             Requested size: 425.58894pt x 252.94438pt.
 
-[13 <./pct2001-miguelg.jpg>]
+[14 <./pct2001-miguelg.jpg>]
 
-Class slides Warning: Slide 13 too long on input line 255.
+Class slides Warning: Slide 14 too long on input line 261.
 
-[13]
+[14]
 
-Class slides Warning: Slide 13 too long on input line 262.
+Class slides Warning: Slide 14 too long on input line 268.
 
-[13]
+[14]
 
-Class slides Warning: Slide 13 too long on input line 270.
+Class slides Warning: Slide 14 too long on input line 276.
 
-[13]
-Overfull \hbox (32.28534pt too wide) in paragraph at lines 272--273
+[14]
+Overfull \hbox (32.28534pt too wide) in paragraph at lines 278--279
 []\T1/lcmss/m/n/19.907 Lei das Nor-mas Aber-tas aprovada na As-sem-bleia da Rep
 ública
  []
 
 
-Overfull \hbox (18.66547pt too wide) in paragraph at lines 273--274
+Overfull \hbox (18.66547pt too wide) in paragraph at lines 279--280
 []\T1/lcmss/m/n/19.907 ANSOL par-tic-ipa na cam-panha in-ter-na-cional conta o 
 ACTA,
  []
 
 
-Class slides Warning: Slide 13 too long on input line 276.
+Class slides Warning: Slide 14 too long on input line 282.
 
-[13] <eventos.png, id=145, 529.22719pt x 447.17062pt>
+[14] <eventos.png, id=150, 529.22719pt x 447.17062pt>
 File: eventos.png Graphic file (type png)
  <use eventos.png>
-Package pdftex.def Info: eventos.png used on input line 362.
+Package pdftex.def Info: eventos.png used on input line 368.
 (pdftex.def)             Requested size: 529.22589pt x 447.16953pt.
 
 
-Class slides Warning: Slide 13 too long on input line 364.
+Class slides Warning: Slide 14 too long on input line 370.
 
-[13]
+[14]
 
-Class slides Warning: Slide 13 too long on input line 364.
+Class slides Warning: Slide 14 too long on input line 370.
 
 
 Overfull \vbox (25.16953pt too high) has occurred while \output is active []
 
 
-[13 <./eventos.png>]
+[14 <./eventos.png>]
 
-Class slides Warning: Slide 13 too long on input line 365.
+Class slides Warning: Slide 14 too long on input line 371.
 
-[13] [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 451.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 451.
+[14] [15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 457.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 457.
  (./intro.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 451.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 451.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 457.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 457.
 Package rerunfilecheck Info: File `intro.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 451.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 457.
  ) 
 Here is how much of TeX's memory you used:
- 5566 strings out of 495020
- 83050 string characters out of 6181323
+ 5572 strings out of 495020
+ 83167 string characters out of 6181323
  156869 words of memory out of 5000000
- 8689 multiletter control sequences out of 15000+600000
+ 8693 multiletter control sequences out of 15000+600000
  15425 words of font info for 39 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  29i,6n,23p,251b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -537,10 +544,10 @@ texmf-var/fonts/pk/ljfour/jknappen/ec/eclq8.1037pk></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/latxfont/lcmss8.pfb>
-Output written on intro.pdf (30 pages, 4808397 bytes).
+Output written on intro.pdf (31 pages, 5374994 bytes).
 PDF statistics:
- 436 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 442 PDF objects out of 1000 (max. 8388607)
+ 157 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
